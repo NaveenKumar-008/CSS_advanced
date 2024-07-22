@@ -225,3 +225,5 @@
 ```
 
 ## Output
+
+![image](https://github.com/user-attachments/assets/23ba4a5d-ee69-4f28-9eda-030794937c48)
